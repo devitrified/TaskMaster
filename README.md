@@ -1,2 +1,2 @@
 - ensure mysql connector is installed
-- load up mysql server with "test.sql" file (i used phpMyAdmin via XAMPP Control Panel)
+- load up mysql server with "test.sql" database file (i used phpMyAdmin via XAMPP Control Panel)
